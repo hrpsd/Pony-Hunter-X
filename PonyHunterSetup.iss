@@ -5,7 +5,7 @@
 #define MyAppName "Pony Hunter X"
 #define MyAppVersion "1.0"
 #define MyAppPublisher "Dancing Ponies"
-#define MyAppURL "https://fartingponies.com"
+#define MyAppURL "https://fartingponies.com/pony-hunter-x"
 #define MyAppExeName "PonyHunter2.exe"
 #define DoubleAmp(Value) StringChange(Value, "&", "&&")
 #define EscapeConstArgument(Value) StringChange(StringChange(StringChange(Value, "%", "%25"), ",", "%2c"), "}", "%7d")
