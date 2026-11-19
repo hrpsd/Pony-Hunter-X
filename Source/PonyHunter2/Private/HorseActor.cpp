@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Copyright Sylvain Michel René Nowé 2026
 
 
 #include "HorseActor.h"

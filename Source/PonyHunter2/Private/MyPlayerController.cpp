@@ -1,3 +1,5 @@
+// Copyright Sylvain Michel René Nowé 2026
+
 #include "MyPlayerController.h"
 
 #include "EnhancedInputSubsystems.h"

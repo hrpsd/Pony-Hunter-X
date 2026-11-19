@@ -1,3 +1,5 @@
+// Copyright Sylvain Michel René Nowé 2026
+
 #include "CrosshairSpriteActor.h"
 
 #include "Kismet/GameplayStatics.h"

@@ -1,4 +1,5 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
+// Portions Copyright Sylvain Michel René Nowé 2026
 
 using UnrealBuildTool;
 
